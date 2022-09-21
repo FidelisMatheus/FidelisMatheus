@@ -1,11 +1,10 @@
 ## Olá! Eu sou o Matheus Fidelis 👋
 
-- 🔭 Atualmente estou estudando para trabalhar como desenvoldor Fullstack (fora ser desenvolvedor Indie de Games)
-- 🌱 Estudando Front e Back
-- 👯 Procuro colaborar em qualquer linguagem atualmente
-- 🤔 Estou procurando por emprego
+- 🔭 Atualmente estou trabalhando como desenvoldor Fullstack 
+- 👾 Programador Indie de Games
+- 🌱 Trabalhando com desenvolvimento Web usando PHP no backend
+- 👯 Sou apto a qualquer linguagem de programação
 - 💬 Todos me chamam de Fidelis, sinta-se a vontade
-- 🦌 Não tenho apenas uma linguagem como foco dos estudos
 - ⚡ Fato engraçado: Me chamam tanto de Fidelis que a maioria das pessoas nem sabem meu nome.
 
 <div align="center">
