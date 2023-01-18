@@ -1,11 +1,16 @@
 ## Olá! Eu sou o Matheus Fidelis 👋
 
+<div align="center">
+<img class="center" src="https://github.com/FidelisMatheus/FidelisMatheus/blob/main/Gif/gif%20programming.gif" width="800" height="530"/>
+</div>
+
 - 🔭 Atualmente estou trabalhando como desenvoldor Fullstack 
 - 👾 Programador Indie de Games
 - 🌱 Trabalhando com desenvolvimento Web usando PHP no backend
 - 👯 Sou apto a qualquer linguagem de programação
 - 💬 Todos me chamam de Fidelis, sinta-se a vontade
 - ⚡ Fato engraçado: Me chamam tanto de Fidelis que a maioria das pessoas nem sabem meu nome.
+
 
 <div align="center">
   <a href="https://github.com/FidelisMatheus">
