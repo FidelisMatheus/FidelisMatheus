@@ -35,15 +35,6 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/grid2109/github-readme-stats">
-    <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FidelisMatheus&show_icons=true&theme=neon&include_all_commits" />
-  </a>
-  <a href="https://github.com/grid2109/github-readme-stats">
-  <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FidelisMatheus&layout=donut&langs_count=5&theme=transparent" />
-  </a>
-</div>
-
 <div>
   <a href="https://www.linkedin.com/in/matheus-fidelis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
