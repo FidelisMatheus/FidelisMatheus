@@ -1,16 +1,18 @@
 ## Olá! Eu sou o Matheus Fidelis 👋
 
 <div align="center">
-<img class="center" src="https://github.com/FidelisMatheus/FidelisMatheus/blob/main/Gif/gif%20programming.gif" width="800" height="530"/>
+  <img class="center" src="https://github.com/FidelisMatheus/FidelisMatheus/blob/main/Gif/gif%20programming.gif" width="800" height="530"/>
 </div>
 
-- 🔭 Atualmente estou trabalhando como desenvoldor Fullstack 
-- 👾 Programador Indie de Games
-- 🌱 Trabalhando com desenvolvimento Web usando PHP no backend
-- 👯 Sou apto a qualquer linguagem de programação
+- 🔭 Desenvoldor Fullstack a 2 anos
+- 🌱 Trabalho com desenvolvimento Web usando PHP, Vue e o FastAPI (Python) para a contrução da API
+- 👯 Tenho conhecimento em alguns frameworks fora o que trabalho, como o Angular e React
+- 📱 Já trabalhei com o desenvolvimento Mobile, tenho experiencia no Flutter
 - 💬 Todos me chamam de Fidelis, sinta-se a vontade
 - ⚡ Fato engraçado: Me chamam tanto de Fidelis que a maioria das pessoas nem sabem meu nome.
 
+
+## Tecnologias e Ferramentos ##
 
 <div align="center">
   <a href="https://github.com/FidelisMatheus">
@@ -32,6 +34,15 @@
 </div>
 
 ##
+
+<div align="center">
+  <a href="https://github.com/grid2109/github-readme-stats">
+    <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FidelisMatheus&show_icons=true&theme=neon&include_all_commits" />
+  </a>
+  <a href="https://github.com/grid2109/github-readme-stats">
+  <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FidelisMatheus&layout=donut&langs_count=5&theme=transparent" />
+  </a>
+</div>
 
 <div>
   <a href="https://www.linkedin.com/in/matheus-fidelis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
