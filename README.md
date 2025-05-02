@@ -1,11 +1,11 @@
 ## Olá! Eu sou o Matheus Fidelis 👋
 
 <div align="center">
-  <img class="center" src="https://github.com/FidelisMatheus/FidelisMatheus/blob/main/Gif/gif%20programming.gif" width="800" height="530"/>
+  <img class="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVzcDFhNmwxeW44ZGVmMGVmNnFtbmsxZHIxcngzNWV5MWF0NmY4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600" height="530" />
 </div>
 
-- 🔭 Desenvoldor Fullstack a 2 anos
-- 🌱 Trabalho com desenvolvimento Web usando PHP, Vue e o FastAPI (Python) para a contrução da API
+- 🔭 Desenvoldor Fullstack a 4 anos
+- 🌱 Trabalho com desenvolvimento Web usando C#, Vue e o .Net para a contrução de APIs
 - 👯 Tenho conhecimento em alguns frameworks fora o que trabalho, como o Angular e React
 - 📱 Já trabalhei com o desenvolvimento Mobile, tenho experiencia no Flutter
 - 💬 Todos me chamam de Fidelis, sinta-se a vontade
